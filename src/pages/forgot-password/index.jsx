@@ -1,5 +1,3 @@
-
-
 import { Button, Form, Input, notification } from 'antd';
 import ForgotPasswordStyle from './forgotpassword.style';
 import { useMutation } from '@tanstack/react-query';
